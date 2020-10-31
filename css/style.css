@@ -12,12 +12,12 @@ body{
     padding: 0;
 }
 
-<<<<<<< HEAD
 .cabecera{
     background-color: aliceblue;
     width: 100%;
     height: 30px;
-=======
+}
+
 .navegacion{
     width: 100%;
     background-color: cadetblue;
@@ -30,7 +30,6 @@ body{
     color: black;
     display: flex;
     justify-content: space-around;
->>>>>>> navegacion
 }
 
 .container{
